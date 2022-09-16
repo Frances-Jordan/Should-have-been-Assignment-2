@@ -1,0 +1,20 @@
+
+/*applies to all of that type*/
+
+h3{
+    color: #33cc33;
+}
+/*class starts with a period*/
+
+.school{
+    color:blueviolet;
+    font-style: italic;
+}
+
+/*id starts with a pound sign*/
+
+#paper{
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(55, 55, 184)
+
+}
